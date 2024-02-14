@@ -1,7 +1,6 @@
 ---
 title: "My Post"
 description: "Post description"
-author: "Fizz McPhee"
-date: "5/22/2021"
-draft: true
+author: "Lucas Pontes"
+date: "12/02/2024"
 ---

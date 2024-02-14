@@ -3,7 +3,6 @@ project:
 
 website:
   title: "Lucas Pontes"
-  navbar:
 page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by Lucas Pontes. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
 navbar:

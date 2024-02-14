@@ -1,5 +1,10 @@
 ---
-title: "LucasPontes-blog.github.io"
+title: "Lucas Pontes - GeoSpatial Data Analysis"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
 This is a Quarto website.

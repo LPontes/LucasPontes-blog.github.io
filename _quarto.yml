@@ -3,43 +3,27 @@ project:
 
 website:
   title: "Lucas Pontes"
+  favicon: assets/lucas/img/logo.svg
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by Lucas Pontes. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
   navbar:
-    # - href: index.qmd
+    background: primary
+    logo: assets/lucas/img/logo.svg
     right:
       - about.qmd
-      - text: Posts
-        menu:
-          - text: All posts
-            href: posts/index.qmd
-      # - text: Talks
-      #   menu:
-      #     - text: All/Todas
-      #       href: talks/index.qmd
-      #     - text: English
-      #       href: talks/en/index.qmd
-      #     - text: Português
-      #       href: talks/pt/index.qmd
-      #     - text: Español
-      #       href: talks/es/index.qmd
-      # - text: Research
-      #   menu:
-      #     - text: Português
-      #       href: research/index.qmd
-  #      - quarto.qmd
-  #      - videos.qmd
-      # - text: Resume
-      #   href: https://beatrizmilz.github.io/resume/index.pdf
-      # - icon: newspaper
-      #   href: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7129591797797797888
-      # - icon: github
-      #   href: https://github.com/beatrizmilz/blog-en
-      # - icon: linkedin
-      #   href: https://www.linkedin.com/in/beatrizmilz/
-
+      - text: Blog
+        aria-label: "Share and Thrive"
+        href: posts/index.qmd
+      - icon: github
+        text: GitHub
+        href: https://github.com/LPontes
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/lucasmpontes/
 format:
   html:
     theme: superhero
     css: styles.css
     toc: true
+
+editor: visual

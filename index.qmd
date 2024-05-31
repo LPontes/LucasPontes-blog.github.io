@@ -1,15 +1,10 @@
 ---
-title: "Lucas Pontes"
-pagetitle: "Lucas Pontes"
-subtitle: "Researcher at Suzano"
-image: assets/lucas/img/logo_transparent.png
 listing:
   contents: posts
   sort: "date desc"
   type: default
   categories: true
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column-screen}
+![](assets/lucas/img/banner.png)
+:::

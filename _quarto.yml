@@ -10,10 +10,10 @@ website:
     background: primary
     logo: assets/lucas/img/logo_transparent.png
     right:
-      - about.qmd
-      - text: Blog
-        aria-label: "Share and Thrive"
+      - text: BLOG
         href: posts/index.qmd
+      - text: About
+        href: about.qmd
       - icon: github
         text: GitHub
         href: https://github.com/LPontes

@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/posts/teste/index.html</loc>
-    <lastmod>2024-05-31T00:45:58.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/index.html</loc>
-    <lastmod>2024-05-31T00:45:58.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/about.html</loc>
-    <lastmod>2024-05-31T00:45:58.847Z</lastmod>
+    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/posts/welcome/index.html</loc>
+    <lastmod>2024-05-31T03:16:34.479Z</lastmod>
   </url>
   <url>
     <loc>https://LPontes.github.io/LucasPontes-blog.github.io/posts/index.html</loc>
-    <lastmod>2024-05-31T00:45:58.847Z</lastmod>
+    <lastmod>2024-05-31T03:16:34.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/teste_py.html</loc>
+    <lastmod>2024-05-31T03:16:34.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/about.html</loc>
+    <lastmod>2024-05-31T03:16:34.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/index.html</loc>
+    <lastmod>2024-05-31T03:16:34.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/posts/post-with-code/teste_py.html</loc>
+    <lastmod>2024-05-31T03:16:34.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LPontes.github.io/LucasPontes-blog.github.io/posts/teste/index.html</loc>
+    <lastmod>2024-05-31T03:16:34.479Z</lastmod>
   </url>
 </urlset>

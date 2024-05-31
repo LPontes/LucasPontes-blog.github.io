@@ -1,1 +1,1 @@
-Sitemap: https://LPontes.github.io/LucasPontes-blog.github.io/sitemap.xml
+Sitemap: https://LPontes.github.io/LucasPontes.github.io/sitemap.xml

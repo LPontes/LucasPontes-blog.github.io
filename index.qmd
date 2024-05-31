@@ -1,7 +1,10 @@
 ---
-title: ""
+title: "Lucas Pontes"
+pagetitle: "Lucas Pontes"
+subtitle: "Researcher at Suzano"
+image: assets/lucas/img/logo.jpg
 listing:
-  contents: Blog
+  contents: posts
   sort: "date desc"
   type: default
   categories: true

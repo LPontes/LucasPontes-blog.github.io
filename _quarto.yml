@@ -3,12 +3,12 @@ project:
 
 website:
   title: "Lucas Pontes"
-  favicon: assets/lucas/img/logo.svg
+  favicon: assets/lucas/img/logo_transparent.png
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by Lucas Pontes. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
   navbar:
     background: primary
-    logo: assets/lucas/img/logo.svg
+    logo: assets/lucas/img/logo_transparent.png
     right:
       - about.qmd
       - text: Blog

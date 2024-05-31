@@ -1,14 +1,22 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Lucas Pontes"
+subtitle: "Geospatial Data Scientist. <br>  Researcher at Suzano"
+image: assets/lucas/img/lucas_photo.png
 about:
   template: jolla
   links:
     - icon: github
       text: GitHub
       href: https://github.com/LPontes
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lucasmpontes/
 ---
 
-## About this blog
+## About me
 
-This is the contents of the about page for my blog.
+Environmental Engineer with doctorate in Soil Science.
+
+Fascinated by remote sensing and data science applied to agroindustry. I am currently a researcher in ​​applied forest management at Suzano.
+
+I love learning, teaching and sharing ideas and knowledge. Therefore, I created this blog where I provide tutorials on geoprocessing with R and Python.

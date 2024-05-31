@@ -2,7 +2,7 @@
 title: "Lucas Pontes"
 pagetitle: "Lucas Pontes"
 subtitle: "Researcher at Suzano"
-image: assets/lucas/img/logo.jpg
+image: assets/lucas/img/logo_transparent.png
 listing:
   contents: posts
   sort: "date desc"

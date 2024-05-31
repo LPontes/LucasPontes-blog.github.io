@@ -1,18 +1,15 @@
 [
   {
-    "listing": "/posts/index.html",
+    "listing": "/index.html",
     "items": [
-      "/posts/teste/index.html",
-      "/posts/welcome/index.html"
+      "/posts/index.html",
+      "/posts/teste/index.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/posts/index.html",
     "items": [
-      "/posts/post-with-code/teste_py.html",
-      "/posts/index.html",
-      "/posts/teste/index.html",
-      "/posts/welcome/index.html"
+      "/posts/teste/index.html"
     ]
   }
 ]

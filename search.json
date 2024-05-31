@@ -1,51 +1,30 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lucas Pontes - GeoSpatial Data Analysis",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMy Post\n\n\n\nDec 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nMay 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "teste_py.html",
-    "href": "teste_py.html",
-    "title": "geopy",
-    "section": "",
-    "text": "import sys\n# import geopandas\nprint(sys.executable)"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPosts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\n\n\n\nPost description\n\n\n\n\n\nDec 2, 2024\n\n\nLucas Pontes\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "This is the contents of the about page for my blog."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lucas Pontes",
+    "objectID": "about.html#about-this-blog",
+    "href": "about.html#about-this-blog",
+    "title": "About",
     "section": "",
-    "text": "geopy\n\n\n\n\n\n\npython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPosts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\n\n\n\nPost description\n\n\n\n\n\nDec 2, 2024\n\n\nLucas Pontes\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 18, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the contents of the about page for my blog."
   },
   {
-    "objectID": "posts/post-with-code/teste_py.html",
-    "href": "posts/post-with-code/teste_py.html",
-    "title": "geopy",
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
     "section": "",
-    "text": "import sys\nimport geopandas as gpd\nprint(sys.executable)\n\nC:\\Users\\lucaspontes\\AppData\\Local\\miniconda3\\python.exe\n\n\n\nRead and Write\n\ndf_estados = gpd.read_file('https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/Brasil/BR/BR_UF_2022.zip')\n\ndf_estados.plot()\n\n&lt;Axes: &gt;"
-  },
-  {
-    "objectID": "posts/teste/index.html",
-    "href": "posts/teste/index.html",
-    "title": "My Post",
-    "section": "",
-    "text": "Python\n#| label: fig-polar #| fig-cap: “A line plot on a polar axis”\nimport numpy as np import matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01) theta = 2 * np.pi * r fig, ax = plt.subplots( subplot_kw = {‘projection’: ‘polar’} ) ax.plot(theta, r) ax.set_rticks([0.5, 1, 1.5, 2]) ax.grid(True) plt.show()"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMy Post\n\n\n\nDec 2, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
